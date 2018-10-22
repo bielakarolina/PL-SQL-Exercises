@@ -1,0 +1,6 @@
+create type REZERWACJE_TABELA as table of POJEDYNCZA_REZERWACJA
+/
+
+create type WYCIECZKI_TABELA as table of POJEDYNCZA_WYCIECZKA
+/
+
